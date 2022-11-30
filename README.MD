@@ -1,8 +1,12 @@
 Need
-About
+About X
 Team
+- needs logos
 Community
-Register Now
+- needs pictures
+Register Now/Contact
+- Needs google form
 Volunteer
-Announcement
-Contact
+- Needs button
+Keep In Touch!
+- Needs remind + join mailing list?
